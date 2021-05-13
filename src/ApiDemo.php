@@ -1,5 +1,5 @@
 <?php
-namespace app\component\star380;
+namespace star380;
 
 
 class ApiDemo{
