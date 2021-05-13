@@ -1,0 +1,15 @@
+{
+  "name": "star380/star380",
+  "description": "星链企业云封装接口",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "林毅麟",
+      "email": "746027209@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  }
+}
